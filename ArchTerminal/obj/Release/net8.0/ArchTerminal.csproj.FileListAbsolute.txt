@@ -1,0 +1,14 @@
+d:\ArchTerminal\bin\Release\net8.0\omerterminal.exe
+d:\ArchTerminal\bin\Release\net8.0\omerterminal.deps.json
+d:\ArchTerminal\bin\Release\net8.0\omerterminal.runtimeconfig.json
+d:\ArchTerminal\bin\Release\net8.0\omerterminal.dll
+d:\ArchTerminal\bin\Release\net8.0\omerterminal.pdb
+d:\ArchTerminal\obj\Release\net8.0\ArchTerminal.GeneratedMSBuildEditorConfig.editorconfig
+d:\ArchTerminal\obj\Release\net8.0\ArchTerminal.AssemblyInfoInputs.cache
+d:\ArchTerminal\obj\Release\net8.0\ArchTerminal.AssemblyInfo.cs
+d:\ArchTerminal\obj\Release\net8.0\ArchTerminal.csproj.CoreCompileInputs.cache
+d:\ArchTerminal\obj\Release\net8.0\omerterminal.dll
+d:\ArchTerminal\obj\Release\net8.0\refint\omerterminal.dll
+d:\ArchTerminal\obj\Release\net8.0\omerterminal.pdb
+d:\ArchTerminal\obj\Release\net8.0\ArchTerminal.genruntimeconfig.cache
+d:\ArchTerminal\obj\Release\net8.0\ref\omerterminal.dll

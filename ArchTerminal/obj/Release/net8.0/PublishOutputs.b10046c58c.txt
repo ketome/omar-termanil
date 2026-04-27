@@ -1,0 +1,5 @@
+d:\ArchTerminal\bin\Release\net8.0\publish\omerterminal.exe
+d:\ArchTerminal\bin\Release\net8.0\publish\omerterminal.dll
+d:\ArchTerminal\bin\Release\net8.0\publish\omerterminal.deps.json
+d:\ArchTerminal\bin\Release\net8.0\publish\omerterminal.runtimeconfig.json
+d:\ArchTerminal\bin\Release\net8.0\publish\omerterminal.pdb
